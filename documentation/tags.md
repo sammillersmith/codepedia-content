@@ -1,254 +1,368 @@
-accessibility  
-algorithms  
-alias  
-anchor  
-android  
-animation  
-arrays  
-artificial intelligence  
-asp.net  
-associations  
-asymptotic notation  
-async await  
-attributes  
-bash/shell  
-beautiful soup  
-best practice  
-binary search  
-binary tree  
-block  
-body  
-boolean  
-bootstrap  
-box model  
-box plot  
-browser compatibility  
-browsers  
-bubble sort  
-c  
-c++  
-chatbots  
-class  
-code foundations  
-color  
-combinators  
-command line  
-comment  
-component  
-composite primary key  
-computer science  
-concatenation  
-conceptual  
-const  
-control flow  
-cool  
-crud  
-csv  
-cybersecurity  
-d3  
-data science  
-data structures  
-data types  
-data visualization  
-database  
-database indexes  
-debugging  
-deep learning  
-dependency injection  
-developer tools  
-dfs  
-dictionary  
-dijkstra's  
-display  
-distance  
-distinct  
-div  
-django  
-document  
-documentation  
-dom  
-doubly linked lists  
-dplyr  
-dynamic programming  
-effects  
-elements  
-emojicode  
-enum  
-errors  
-es6  
-events  
-expo  
-express  
-files  
-finance  
-flask  
-flexbox  
-fonts  
-foreign key  
-form  
-functions  
-game development  
-getters and setters  
-ggplot2  
-git  
-github  
-go  
-graph  
-graph search  
-grid  
-handlebars  
-hash maps  
-hashes  
-head  
-headings  
-heap  
-heroku  
-histograms  
-html & css  
-http  
-id  
-if/else  
-image  
-inheritance  
-input  
-interface  
-ios  
-iterators  
-java  
-javascript  
-join  
-jquery  
-json  
-jsx  
-k-nearest neighbors  
-kotlin  
-let  
-linear algebra  
-linear regression  
-link  
-linked lists  
-lists  
-logic  
-logistic regression  
-loops  
-lua  
-machine learning  
-many-to-many relationship  
-margin  
-matplotlib  
-media queries  
-meta course  
-metadata  
-methods  
-middleware  
-mobile development  
-models  
-modules  
-multi-line strings  
-naive bayes  
-natural language processing (nlp)  
-netlify  
-nlp  
-node  
-npm  
-numbers  
-numpy  
-objects  
-one-to-many relationship  
-one-to-one relationship  
-oop  
-operators  
-p5.js  
-package  
-pandas  
-paragraph  
-phaser  
-php  
-physics  
-positioning  
-postgresql  
-primary key  
-print  
-probability  
-promise  
-properties  
-python  
-queries  
-queues  
-quicksort  
-r  
-range  
-react  
-react native  
-react-redux  
-readr  
-recursion  
-redux  
-redux-thunk  
-redux-toolkit  
-regular expressions  
-requests  
-responsive  
-rest parameter  
-ruby  
-schema design  
-scikit-learn  
-scope  
-script  
-search  
-select  
-selectors  
-semantic  
-server  
-sets  
-skill  
-sort  
-span  
-specificity  
-spread  
-spread syntax  
-sql  
-sqlite  
-stacks  
-statistics  
-stringr  
-strings  
-structure  
-style  
-summarizing categorical data  
-swift  
-swiftui  
-switch  
-symbol  
-syntax  
-table  
-target  
-technical interviews  
-templates  
-test-gamut-update  
-tidyr  
-title  
-transpilation  
-trees  
-tuple  
-type  
-type guard  
-type narrowing  
-typescript  
-typography  
-union  
-units  
-url  
-validation  
-values  
-variable types  
-variables  
-version control  
-version control system  
-video  
-views  
-visibility  
-web design  
-web development  
-whiteboarding  
-xcode  
+# Tags
+
+Tags in Docs are used for recommending related entries and for the home page search bar. Use <kbd>Command</kbd> + <kbd>F</kbd> to search this list.
+
+Feel free to add suggestions for new tags to the list as part of your PR! Be sure to insert them alphabetically.
+
+```
+Abstraction
+Accessibility
+AI
+Algorithms
+Alias
+Anchor
+Android
+Angular
+Animation
+Anonymous Functions
+APIs
+Arguments
+Arithmetic
+Arrays
+ASP.NET
+Assert
+Assignment
+Asymptotic Notation
+Async Await
+Attributes
+Authentication
+Automation
+Azure
+A-Frame
+Background
+Bash/Shell
+Beautiful Soup
+Best Practices
+Binary Search
+Binary Tree
+Block
+Blockchain
+Body
+Booleans
+Bootstrap
+Borders
+Box Model
+Box Plot
+Break
+Browser Compatibility
+Browsers
+Bubble Sort
+Buttons
+Calendar
+Catch
+Characters
+Charts
+Chatbots
+Cryptocurrency
+Classes
+Cloud Computing
+Code Editors
+Conditionals
+Collections
+Colors
+Combinators
+Command Line
+Comments
+Comparison
+Compilation
+Components
+Composition
+Computer Vision
+CMS
+Concatenation
+Conceptual
+Const
+Constructors
+Continue
+Counting Sort
+Control Flow
+CRUD
+CSS
+CSV
+Cybersecurity
+D3
+Dart
+Data
+Data Structures
+Data Types
+Database
+Date
+Dart Operators
+Debugging
+Decorators
+Deep Learning
+Denoising
+Dependency
+Design
+Developer Tools
+Development
+DFS
+Dictionary
+Dijkstra's
+Display
+Distance
+Distinct
+Div
+Django
+Docker
+Documentation
+DOM
+Doubly Linked Lists
+Dplyr
+Dynamic Programming
+Effects
+Elements
+Else
+Encapsulation
+Encoding
+Enum
+Environment Variables
+Equality
+Error Handling
+Errors
+ES6
+Ethical Hacking
+Events
+Exceptions
+Expo
+Express
+Extensions
+Favicon
+Files
+Filter
+Finance
+Firebase
+Flask
+Flexbox
+Flutter
+Fonts
+For
+ForEach
+Foreign Key
+Form
+Formatting
+Frameworks
+Functions
+Functional Programming
+Functors
+Generics
+Geometry
+Ggplot2
+Git
+GitHub
+Graphics
+Graphs
+Graph Search
+Grid
+Handlebars
+Hash Maps
+Hashes
+Head
+Headings
+Heap
+Heroku
+Histograms
+HTTP
+Icons
+Id
+IDE
+If
+Images
+Image Generation Model
+Index
+Information Technology
+Infrastructure
+Inheritance
+Input
+Instant
+Integers
+Interface
+iOS
+Iterators
+Java
+Join
+jQuery
+JRuby
+JSON
+JSK
+Justice
+K-Nearest Neighbors
+Knowledge Graphs
+Kotlin
+Kubernetes
+Laravel
+Let
+Libraries
+Linear Algebra
+Linear Regression
+Link
+Linked Lists
+Linux
+Lists
+Logic
+Logical
+Logistic Regression
+Loops
+Map
+Machine Learning
+Margin
+Math
+MATLAB
+Matplotlib
+Matrices
+Media Queries
+Memory
+Metadata
+Methods
+Middleware
+Models
+Modules
+MySQL
+Naive Bayes
+Natural Language Processing
+Netlify
+Networking
+Neural Networks
+NLP
+Node
+NPM
+Numbers
+NumPy
+Objects
+Obsolete
+Ontologies
+OOP
+Opacity
+Open Source
+Operating Systems
+Operators
+Optimization
+Optionals
+Output
+p5
+Packages
+Padding
+Pandas
+Paragraph
+Parameters
+Perceptrons
+Phaser
+Physics
+Pillow
+Plotly
+Pointers
+Positioning
+PostgreSQL
+Precedence
+Preprocessor
+Primary Key
+Print
+Probability
+Promise
+Programming
+Properties
+Protocols
+Queries
+Queues
+Quicksort
+Rails
+Random
+Range
+React
+React Native
+Readr
+Rectangle
+Recursion
+Redux
+References
+Regular Expressions
+Requests
+Responsive
+Rest Parameter
+Schema Design
+Scikit-learn
+Scope
+Script
+Seaborn
+Search
+Search Algorithms
+Selectors
+Semantic
+Servers
+Server-Side Rendering
+Sets
+Slices
+Socket.IO
+Sort
+Sorting Algorithms
+Span
+Specificity
+Spread
+SQLite
+SQL Server
+Stacks
+Static Site
+Statistics
+Storage
+Stringr
+Strings
+Structure
+Style
+Subqueries
+SwiftUI
+SwiftUI Views
+SwiftUI ViewModifiers
+Switch
+Symbol
+Syntax
+Tables
+Tags
+Target
+Technical Interviews
+Templates
+TensorFlow
+Text-To-Image
+Threads
+Tidyr
+Time
+Title
+Transitions
+Transpilation
+Trees
+Trigonometry
+Try
+Tuples
+Types
+Type Guard
+Type Narrowing
+Typography
+UI
+Unary
+Union
+Unicode
+Units
+Unix
+URL
+UX
+Validation
+Values
+Variable Types
+Variables
+Vectors
+Version Control
+Video
+Views
+Vim
+Visibility
+VR
+Vue
+Web3
+WebRTC
+Weight & Bias
+While
+Whiteboarding
+Window Functions
+WordPress
+World Wide Web
+Xcode
+```

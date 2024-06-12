@@ -1,27 +1,54 @@
+<!-- markdownlint-disable MD041 MD002 -->
 <div align="center">
-  <h1>Codepedia 📕</h1>
-  <strong>Documentation and glossary for popular programming languages.</strong><br>
+  <h1>📕 Docs</h1>
+  <strong>Documentation for popular programming languages and frameworks.</strong><br>
   <strong>Built by the community. Maintained by Codecademy.</strong>
 </div>
 <br>
 
-## What is Codepedia?
-Codepedia is intended to be a free, easily accessible reference for coding terms and concepts available to learners the world over. If you forget what JavaScript hoisting is, we want you to be able to look up "JS hoisting" on any search engine, click a Codepedia entry as the first result, and have an answer in seconds.
+## What is Docs?
 
-To make the Codepedia vision clearer, [we even created a demo site](https://codecademy.github.io/codepedia/)! The UI is liable to change a lot, but the basic principles are there. 
+[Docs](https://www.codecademy.com/resources/docs) is a free, easily accessible reference for coding terms and concepts, available to developers all over the world. If you forget what JavaScript hoisting is, we want you to be able to look up "JS hoisting" on any search engine, click a Doc entry, and have an answer in seconds.
 
 ## What stage of development are we in right now?
-Right now we're trying to create a baseline of great content. We have an engineering team work on improving the UI of Codepedia in Q2, after which we'll put the content and the UI together and release to the world!
 
+Docs is live with over 2000 high-quality entries. Now that the MVP is out, our goal is to transition some ownership of Docs content to the Codecademy community, since maintaining a resource of this type at-scale is only possible if it's open-contribution. That means we need your help, whether it's contributing, reviewing, or evangelizing!
 
-## What do I need to do before contributing? 
-Before contributing, please read through the files in [/documentation](https://github.com/Codecademy/codepedia-content/tree/main/documentation). There you'll find a write-up of our standards for content and style, as well as templates for creating your entries. Next, check out what entries need to be created in [the assignment sheet](https://docs.google.com/spreadsheets/d/1e31MNRVTo5VijcuPFjqWymw8_A1BbShGEW_LuCqXZZA/edit#gid=0) and put your name next to one.
+### 📝 Content Team
+
+- [@aherman91](https://github.com/aherman91), Curriculum Developer
+- [@caupolicandiaz](https://github.com/caupolicandiaz), Content Contributor
+- [@HishamT](https://github.com/HishamT), Content Contributor
+- [@KTom101](https://github.com/KTom101), Content Contributor
+- [@sswiniarski](https://github.com/sswiniarski), Content Contributor
+- [@yangc95](https://github.com/yangc95), Content Contributor
+
+We are currently building a team of community volunteers and educators to maintain Docs. Let us know if you are interested.
+
+### 🏗 Engineering Team
+
+- [@awgraves](https://github.com/awgraves)
+- [@bndiep](https://github.com/bndiep)
+- [@christian-dinh](https://github.com/christian-dinh)
+- [@codecademy-aditya](https://github.com/codecademy-aditya)
+- [@jrood](https://github.com/jrood)
 
 ## How do I contribute?
-Contributing is as simple as forking this repo, editing your fork, and then making a pull request to merge your fork with this repo! If you haven't gone through this workflow before, you can check out [this YouTube video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) to learn about how to make a pull request from a fork using Git. Alternatively, if you'd prefer to keep things to the GitHub UI for now, you can follow the instructions in that video up to 1:18 to fork this repo. After that, you can create your entry in your fork using the UI and then make a pull request by pressing this handy button:<br>
-<img src="https://github.com/Codecademy/codepedia-content/blob/main/media-file-hosting/pull-request-ui.png" alt="Code block with Codebyte tags" width="800"/>
+
+Here's how you can contribute to Codecademy Docs:
+
+1. Get assigned to an Issue of your interest.
+   - Ask to be assigned to one of the [available Issues](https://github.com/Codecademy/docs/issues?q=is%3Aissue+is%3Aopen+-label%3Aclaimed).
+   - Submit a typo/bug in [GitHub Issues](https://github.com/Codecademy/docs/issues).
+2. Write a new entry or make changes to an existing entry, based on the requirement of your Issue.
+3. Submit a Pull Request of your entry for your assigned Issue.
+4. Reply to the thread on [Possible Content Discussion](https://discuss.codecademy.com/t/find-a-starting-point-possible-content-discussion/745868) to share ideas and collaborate with other contributors, maintainers, or super users to determine good future issues.
+5. Share your thoughts in this [Docs feedback form](https://codecademyready.typeform.com/to/hzVIWDgz) to tell us how we can improve Docs!
+
+Whether you are a code newbie or a seasoned hacker, there's something for you!
+
+Please read through the [Contributing Guide](https://github.com/Codecademy/docs/blob/main/CONTRIBUTING.md). There, you'll find a write-up of our content standards and style guide, as well as templates for creating your entries.
 
 ## Additional Notes
-- Please prioritize all course and skill path work over Codepedia. Codepedia is a great way to fit in extra hours, but only when you don’t have higher priority work to do!
-- Please use the ’Codepedia” Boomr Project for time spent on this content.
-- Remember, if you ever have any questions at all, we're there to help in #codepedia-production.
+
+Remember, if you ever have any questions at all, we're always here to help in the [Codecademy Forums](https://discuss.codecademy.com/c/community/community-docs/2205) and [Codecademy Discord](https://discord.com/invite/codecademy).
